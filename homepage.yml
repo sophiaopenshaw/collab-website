@@ -1,0 +1,9 @@
+name: "our-website"
+navbar:
+  title: "Homepage"
+  left:
+    - text: "Cars"
+      href: index.html
+    - text: "About"
+      href: about.html
+output_dir: "."

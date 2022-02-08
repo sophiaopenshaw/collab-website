@@ -1,0 +1,10 @@
+---
+title: "This is about us"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Sophia and Lindsey's website
